@@ -5,6 +5,7 @@
 
 The particle system is running fully on the CPU, could serve
 as an excellent benchmark. (reaches the limit of 2.7 million particles defined by the engine)
+Uses Vulkan as the renderer.
 FPS counter added.
 
 Made Using Niagara inside, Unreal Engine (v5.3.2)
