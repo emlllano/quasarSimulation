@@ -21,7 +21,7 @@ actual physics of a living quasar.
 Altough, I made it so it has the following to approximate reality within
 the possibilities Niagara and Unreal can offer:
 
-- two "Gas" accretion disks, one is of 580-650 (nm WaveLegnth) the other is of "cooler" gas in the 500's.
+- two "Gas" accretion disks, one is of 580-650 (nm WaveLegnth) the other is of "hoter" gas in the 500's.
   both accretion disks are spiral shaped and orbit around one "singularity" in the center of undefined mass. The subject accretion disks both have spiral shapes
   and previously defined different revolution speed around the center.
   I took care to add two quasar jets to simulate the magnetic field breaking points at the poles.
