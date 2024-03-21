@@ -15,7 +15,7 @@ Made Using Niagara inside, Unreal Engine (v5.3.2)
 
 The simulation itself:
 
-This simulation is only demonstrative and does not represent the 
+This simulation is only representative and does not represent the 
 actual physics of a living quasar.
 
 Altough, I made it so it has the following to approximate reality within
