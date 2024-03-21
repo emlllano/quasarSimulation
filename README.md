@@ -1,7 +1,7 @@
 <h1>Quasar Simulation</h1>
 
 
-<p1>simple quasar simulation made with unreal engine 5</p1>
+<p1>simple quasar simulation made with unreal engine 5, niagara</p1>
 
 The particle system is running fully on the CPU, could serve
 as an excellent benchmark. (reaches the limit of 2.7 million particles defined by the engine)
